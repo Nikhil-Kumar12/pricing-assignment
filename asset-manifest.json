@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pricing-assignment/static/css/main.08da10f5.css",
+    "main.js": "/pricing-assignment/static/js/main.c2c7baa8.js",
+    "static/media/bg.jpg": "/pricing-assignment/static/media/bg.fd03615cccadf241c5f7.jpg",
+    "index.html": "/pricing-assignment/index.html",
+    "main.08da10f5.css.map": "/pricing-assignment/static/css/main.08da10f5.css.map",
+    "main.c2c7baa8.js.map": "/pricing-assignment/static/js/main.c2c7baa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08da10f5.css",
+    "static/js/main.c2c7baa8.js"
+  ]
+}
