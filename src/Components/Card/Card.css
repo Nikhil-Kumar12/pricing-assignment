@@ -1,0 +1,58 @@
+body {
+  color: #514b64;
+  min-height: 100vh;
+}
+
+.rounded-lg {
+  border-radius: 1rem !important;
+}
+
+.text-small {
+  font-size: 0.9rem !important;
+}
+
+.custom-separator {
+  width: 5rem;
+  height: 6px;
+  border-radius: 1rem;
+}
+
+.text-uppercase {
+  letter-spacing: 0.2em;
+}
+.customPriceCard1::before {
+  content: "";
+  display: block;
+  width: "100%";
+  position: relative;
+  height: 10px;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(60, 121, 9, 0.9756945014333859) 35%,
+    rgba(233, 255, 0, 1) 100%
+  );
+  border-radius: 10px 10px 0 0;
+}
+
+.customPriceCard2::before {
+  content: "";
+  display: block;
+  width: "100%";
+  position: relative;
+  height: 10px;
+  background: rgb(131, 58, 180);
+  background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+  border-radius: 10px 10px 0 0;
+}
+.customPriceCard3::before {
+  content: "";
+  display: block;
+  width: "100%";
+  position: relative;
+  height: 10px;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 121, 112, 1) 35%, rgba(0, 212, 255, 1) 100%);
+  border-radius: 10px 10px 0 0;
+}
